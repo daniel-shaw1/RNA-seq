@@ -1,4 +1,4 @@
-working_dir = directory = 'C:/Users/Daniel_2/Documents/Glazer/RNAseq/'
+working_dir = directory = 'C:/Users/Directory/RNAseq/'
 setwd(working_dir)
 
 #Read in gene mapping
